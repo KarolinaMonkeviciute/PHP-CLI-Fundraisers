@@ -10,7 +10,7 @@ This project is developed for educational purposes only.
 
 ## 🌟 About
 
-This project is for educational porpuses only.
+This project is for educational purposes only.
 
 ## 🎯 Project features/goals
 
